@@ -1,38 +1,38 @@
 ╭──❍「 *SENIN* 」❍
 │1.Sistem Informasi Manajemen
-|>Pak Kurniawan 
-|>+6281938020870
+│>Pak Kurniawan 
+│>+6281938020870
 │2.Aljabar Linear
-|>Bu Majida 
-|>+6289654045040
+│>Bu Majida 
+│>+6289654045040
 ╰─┬────❍
 ╭─┴❍「 *SELASA* 」❍
-|```LIBUR```
+│~>```LIBUR```<~
 ╰─┬────❍
 ╭─┴❍「 *RABU* 」❍
 │1.Praktikum Struktur Data
-|>Pak Gemma
-|>+6285749661649
+│>Pak Gemma
+│>+6285749661649
 │2.Organisasi dan Arsitektur Komputer
-|>Pak Makin
-|>+6281937093000
+│>Pak Makin
+│>+6281937093000
 ╰─┬────❍
 ╭─┴❍「 *KAMIS* 」❍
 │1.Kewarganegaraan
-|>Pak Fajar
-|>+6289680967865
+│>Pak Fajar
+│>+6289680967865
 │2.Kewirausahaan
-|>Pak Mashudi
-|>+6287754539359
+│>Pak Mashudi
+│>+6287754539359
 ╰─┬────❍
 ╭─┴❍「 *JUM'AT* 」❍
 │1.Bahasa Inggris Profesi
-|>Bu Khusnul
-|>+6285755250912
+│>Bu Khusnul
+│>+6285755250912
 │2.Struktur Data
-|>Pak Rasyid
-|>+628978812869
-|~Dosen Pengganti
-|>Pak Alimi
-|>+6281556509780
+│>Pak Rasyid
+│>+628978812869
+│~Dosen Pengganti
+│>Pak Alimi
+│>+6281556509780
 ╰──────❍
