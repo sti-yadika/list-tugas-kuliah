@@ -1,14 +1,38 @@
-===Hari Senin===
-Sistem Informasi Manajemen +6281938020870+ Pak Kurniawan 
-Aljabar Linear +6289654045040+ Bu Majida
-===Hari Selasa===
-LIBUR
-===Hari Rabu ===
-Praktikum Struktur Data +6285749661649+ Pak Gemma
-Organisasi dan Arsitektur Komputer +6281937093000+ Pak Makin
-===Hari Kamis===
-Kewarganegaraan +6289680967865+ Pak Fajar
-Kewirausahaan+6287754539359+ Pak Mashudi
-===Hari Jum'at===
-Bahasa Inggris Profesi +6285755250912+ Bu Khusnul
-Struktur Data +628978812869+ Pak Rasyid (Pak Alimi +6281556509780+ "Dosen Pengganti" )
+╭──❍「 *SENIN* 」❍
+│1.Sistem Informasi Manajemen
+|>Pak Kurniawan 
+|>+6281938020870
+│2.Aljabar Linear
+|>Bu Majida 
+|>+6289654045040
+╰─┬────❍
+╭─┴❍「 *SELASA* 」❍
+|```LIBUR```
+╰─┬────❍
+╭─┴❍「 *RABU* 」❍
+│1.Praktikum Struktur Data
+|>Pak Gemma
+|>+6285749661649
+│2.Organisasi dan Arsitektur Komputer
+|>Pak Makin
+|>+6281937093000
+╰─┬────❍
+╭─┴❍「 *KAMIS* 」❍
+│1.Kewarganegaraan
+|>Pak Fajar
+|>+6289680967865
+│2.Kewirausahaan
+|>Pak Mashudi
+|>+6287754539359
+╰─┬────❍
+╭─┴❍「 *JUM'AT* 」❍
+│1.Bahasa Inggris Profesi
+|>Bu Khusnul
+|>+6285755250912
+│2.Struktur Data
+|>Pak Rasyid
+|>+628978812869
+|~Dosen Pengganti
+|>Pak Alimi
+|>+6281556509780
+╰──────❍
